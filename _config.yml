@@ -2,7 +2,7 @@ url: http://home.ustc.edu.cn  # Change to "http://staff.ustc.edu.cn" if you're a
 baseurl: /~xiajun               # Change to "/~" plus your email username
 
 theme: minima
-title: "My awesome home page" # Your home page name
+title: "My home page" # Your home page name
 description: "Blah blah"      # Your description
 
 exclude:
