@@ -1,4 +1,4 @@
-url: http://staff.ustc.edu.cn  # Change to "http://staff.ustc.edu.cn" if you're a staff
+url: http://home.ustc.edu.cn  # Change to "http://staff.ustc.edu.cn" if you're a staff
 baseurl: /~xiajun               # Change to "/~" plus your email username
 
 theme: minima
